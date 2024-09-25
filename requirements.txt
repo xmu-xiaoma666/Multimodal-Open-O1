@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+requests
+blessed
+openai
+gradio
