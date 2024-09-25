@@ -43,6 +43,10 @@ This is an early open source project, and we welcome everyone to propose limitat
 
 ![limitation2](figs/limitation2.jpg)
 
+- **Repetitive thought process**
+
+![limitation3](figs/limitation3.jpg)
+
 
 ## Thank
 
